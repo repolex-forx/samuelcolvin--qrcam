@@ -1,0 +1,11 @@
+{
+  "org": "samuelcolvin",
+  "repo": "qrcam",
+  "versions": [
+    {
+      "commit": "ed1fffdd9dc1ce27d44555c6c83e1098aff38a14",
+      "tag": "",
+      "parsed_at": "2026-10-11T09:05:02.772873+00:00"
+    }
+  ]
+}
