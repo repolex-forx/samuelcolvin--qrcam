@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "qrcam",
+  "versions": [
+    {
+      "commit": "ed1fffdd9dc1ce27d44555c6c83e1098aff38a14",
+      "parsed_at": "2026-10-11T09:02:32.210728+00:00",
+      "filetree": "filetree/ed1fffdd9dc1ce27d44555c6c83e1098aff38a14.nq.gz",
+      "blobs": [
+        "blob/75306517965a54731b94dca8bace640e856af115.nq.gz",
+        "blob/d7f8519e11158598d0c0eedde3617cff4be0f0ad.nq.gz",
+        "blob/6a96f3ff0106080693159861e0df4177e638c77f.nq.gz",
+        "blob/db2324c79ccd470733ed7126ab9317426778be01.nq.gz",
+        "blob/bacfe4bcba88af3bdbe02058666069976a0dd93f.nq.gz",
+        "blob/966221d097b0f51c4543418b1cb2fe8299e4ef11.nq.gz",
+        "blob/e10481f59afa75a6e122a8bd32b7749547412eaf.nq.gz",
+        "blob/809f74b5ec7703d0d1c5082cf5cad2080f75a892.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
